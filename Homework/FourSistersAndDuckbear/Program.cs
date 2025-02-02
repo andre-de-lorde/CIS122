@@ -27,10 +27,10 @@ public class Program {
 		} else {
 			Console.Write($"{perSister} eggs. Chocolate omelettes for everyone!");
 		}
-		Console.Write("\n"); //go to new line for printing the bugbear's amount
+		Console.Write("\n"); //go to new line for printing the duckbear's amount
 
 
-		Console.Write("The bugbear gets the leftovers, of which there are "); //again, another cutoff for special text
+		Console.Write("The duckbear gets the leftovers, of which there are "); //again, another cutoff for special text
 		if (remainder == 0) {
 			Console.Write("none. Too bad.");
 		} else if (remainder == 1) {
